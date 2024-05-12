@@ -1,0 +1,15 @@
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\bin\Debug\net6.0\task resolution.exe
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\bin\Debug\net6.0\task resolution.deps.json
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\bin\Debug\net6.0\task resolution.runtimeconfig.json
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\bin\Debug\net6.0\task resolution.dll
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\bin\Debug\net6.0\task resolution.pdb
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.csproj.AssemblyReference.cache
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.AssemblyInfoInputs.cache
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.AssemblyInfo.cs
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.dll
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\refint\task resolution.dll
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.pdb
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\task resolution.genruntimeconfig.cache
+C:\Users\Екатерина\OneDrive\Документы\3. УЧЕБА\Finals_main _Block\task resolution\obj\Debug\net6.0\ref\task resolution.dll
